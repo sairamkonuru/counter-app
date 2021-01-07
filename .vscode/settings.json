@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "npm.enableRunFromFolder": true,
+    "browser-preview.chromeExecutable": "/usr/bin/google-chrome",
+    "browser-preview.startUrl": "http://localhost:3000/"
+}
